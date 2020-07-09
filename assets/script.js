@@ -1,3 +1,10 @@
+let buttonObj = [
+  {
+    displayValue: '1'
+  }
+];
+
+
 let calculator = document.querySelector(".calculator");
 // console.log(buttons)
 let numArr = [];
